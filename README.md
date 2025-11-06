@@ -19,4 +19,9 @@
       <option value="rarity">Rarity</option>
     </select>
   </div>
+  
+<div class="card-container" id="cardContainer"></div>
+
+  <script src="script.js"></script>
 </body>
+</html>
