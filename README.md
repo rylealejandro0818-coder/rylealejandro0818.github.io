@@ -1,6 +1,5 @@
-# rylealejandro0818.github.io
-title: <b> Card sorting page </b>
-description: Sort cards based on release date, class, and rarity.
+title: <b> Card Sorting Page </b>
+Description: Sort cards based on release date, class, and rarity.
 
 <!DOCTYPE html>
 <html lang="en">
