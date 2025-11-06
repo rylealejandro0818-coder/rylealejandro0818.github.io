@@ -1,4 +1,4 @@
-title: <b> Card Sorting Page </b>
+# <b> Card Sorting Page </b>
 Description: Sort cards based on release date, class, and rarity.
 
 <!DOCTYPE html>
