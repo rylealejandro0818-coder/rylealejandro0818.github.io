@@ -7,5 +7,7 @@
   </header>
     <h2>About Me</h2>
     <p>Greetings! My name is Ryle Alejandro Silva. I am 19 years old, and I live in Tikiw, San Antonio, Nueva Ecija. I am currently studying in College Of The Immaculate Conception as an IT student, with a major in Animation</p> <br />
-    <p></p>
+    <p>My hobbies and things I like to do are:</p> <br />
+    <p>. Using 
+       . Learning </p>
 </body>
