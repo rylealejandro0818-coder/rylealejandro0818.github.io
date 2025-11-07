@@ -1,5 +1,24 @@
 # <b> Ryle's Portfolio </b>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Portfolio | Ryle Silva</title>
+  link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Ryle Alejandro R. Silva</h1>
+    <p>IT 2nd Year Student | Animation Major</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Greetings! My name is Ryle Alejandro Silva. I am </p>
+</body>
+
 body {
   font-family: 'Arial', sans-serif;
   margin: 0;
