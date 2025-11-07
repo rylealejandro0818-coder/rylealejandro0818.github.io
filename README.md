@@ -1,5 +1,3 @@
-# <b> Ryle's Portfolio </b>
-
 <!DOCTYPE html>
 <body>
   <header>
@@ -9,12 +7,5 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>Greetings! My name is Ryle Alejandro Silva. I am </p>
+    <p>Greetings! My name is Ryle Alejandro Silva. I am 19 years old, and I live in Tikiw, San Antonio, Nueva Ecija</p>
 </body>
-
-  color: #fff;
-}
-footer a {
-  color: #00bcd4;
-  text-decoration: none;
-}
